@@ -31,11 +31,6 @@
 
 <div>
   <h2>Stats:</h2>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=brenoorem&theme=slateorange&show_icons=true&locale=en" alt="brenoorem" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenoorem&theme=slateorange&show_icons=true" alt="brenoorem" />
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/brenoorem/brenoorem/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/brenoorem/brenoorem/blob/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://github.com/brenoorem/brenoorem/blob/output/github-contribution-grid-snake.svg" />
-  </picture>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=brenoorem&theme=transparent&show_icons=true&locale=en" alt="brenoorem" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenoorem&theme=transparent&show_icons=true" alt="brenoorem" />
 </div>
