@@ -5,7 +5,7 @@
   <img align="center" width="100vw" src="https://media.tenor.com/qDt_Iz_eWWwAAAAM/ichigo.gif"/>
   <h2>Eu sou o Breno</h2>
   <p align="justify" text_align="justify">📌 Estudante do primeiro ano de <strong>Engenharia da Computação</strong> na <strong>Faculdade de Engenharia de Sorocaba (FACENS)</strong></p>
-  <p align="justify" text_align="justify">🏎️ Hobbies:<strong> games</strong>, <strong>carros</strong>, <strong>academia</strong> e <strong>bussiness</strong>.</p>
+  <p align="justify" text_align="justify">🏎️ Hobbies:<strong> games</strong>, <strong>carros</strong>, <strong>academia</strong> e <strong>computação</strong>.</p>
 </div>
 <div>
   <p align="justify" text_align="justify">🦅 Capacitações: Dentre do campo <strong>intrapessoal</strong>, destaco-me em <strong>autodidatismo</strong>, dada uma variedade de situações, muitas delas fora do campo de conhecimento preexistente, sou plenamente capaz de buscar informações no intuito de evoluir e cumprir os objetivos concebidos. Juntamente a isso, a <strong>determinação</strong> apresenta importante participação, já que busco sempre concluir minhas metas independentemente dos obstáculos.</p>
