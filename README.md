@@ -4,7 +4,7 @@
 <div align="center">
   <img align="center" width="100vw" src="https://media.tenor.com/qDt_Iz_eWWwAAAAM/ichigo.gif"/>
   <h2>Eu sou o Breno</h2>
-  <p align="justify" text_align="justify">📌 Estudante do primeiro ano de <strong>Engenharia da Computação</strong> na <strong>Faculdade de Engenharia de Sorocaba (FACENS)</strong></p>
+  <p align="justify" text_align="justify">📌 Estudante de <strong>Engenharia da Computação</strong> na <strong>Faculdade de Engenharia de Sorocaba (FACENS)</strong></p>
   <p align="justify" text_align="justify">🏎️ Hobbies:<strong> games</strong>, <strong>carros</strong>, <strong>academia</strong> e <strong>computação</strong>.</p>
 </div>
 <div>
